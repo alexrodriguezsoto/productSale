@@ -129,3 +129,5 @@ Each response will be returned with one of the following HTTP status codes:
 ## 4. :pencil: License
 
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+intended for practice only all credits to : https://github.com/devdbrandy/restful-ecommerce#2-lock-authentication
+
